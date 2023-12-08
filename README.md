@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pau Giuli</h1>
 <h3 align="center">An introverted something, something.</h3>
 
-- 🔭 I’m currently working on **Phoenix**
-
 - 🌱 I’m currently learning **C and Ruby**
 
 - 📝 I regularly write articles on [blog.giuli.cat](blog.giuli.cat)
