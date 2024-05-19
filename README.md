@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pau@giuli.cat**
 
-- ⚡ I'm training for **Hack UPC**
+- ⚡ **Hack UPC** attendee.
 
 
 <h3 align="left">Languages and Tools:</h3>
